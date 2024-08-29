@@ -4,18 +4,10 @@ I am a Software Developer pursuing a Master of Science in Biomedical Engineering
 
 ### I enjoy 
 - Low-level programming
+- Machine Learning and Statistics
 - Optimizing my workflow
 
-### I'm learning  
-- Front-end development 
-- Networking & Communication
-- Linux (switched in 2024)
-
-### I want to learn
-- A Tiling Window Manager
-- Effective database scaling
-
-## Programming Languages
+## Main Technologies
 
 ### C++ 
 I have professional experience with C++ and I am most comfortable with this language.
@@ -37,18 +29,6 @@ I have experience with Python from my education mostly linked to machine learnin
 - [PyTorch](https://pytorch.org/)
 - [TensorFlow](https://www.tensorflow.org/)
 
-### JavaScript
-I have some professional experience with JavaScript but only basic usage.
-
-### Lua
-I have experience with Lua in the sense that I use nvim. 
-
-### Java
-I have some experience with Java but only basic usage. 
-
-### Go
-I have some experience with Go but only basic usage. 
-
 ## Projects
 
 ### [Chip-8 Emulator/Virtual Machine](https://github.com/ohukainen/chip8)
@@ -56,12 +36,19 @@ I have some experience with Go but only basic usage.
 - Description: A Chip-8 Emulator/Virtual Machine that can read and execute operation codes.
 - Key Takeaways: Learned how a CPU reads and processes binary data to execute commands, an important concept to understand as a C/C++ developer.
 
-### [Neovim setup](https://github.com/ohukainen/kickstart.nvim)
+### [Neovim setup](https://github.com/ohukainen/nvim-config)
 
-- Description: My nvim setup based on kickstart neovim (will be rewritten in a separate repo).
+- Description: This is my nvim config based on [ThePrimeagens config](https://www.youtube.com/watch?v=w7i4amO_zaE) and [kickstart.neovim](https://github.com/nvim-lua/kickstart.nvim).
 - Key Takeaways: I like a minimalist setup and therefore removed some of the more flashy parts of kickstart. I also added some of my own favorite packages like harpoon and fugitive. 
 
 ### [My website](https://www.johanneskallstad.com/)
 
 - Description: My very own website under development currently.
 - Key Takeaways: Currently in development so I have none yet!
+
+## Other Technologies 
+I have some experience with these languages but mostly basic usage.
+- JavaScript
+- Lua
+- Java
+- Go
