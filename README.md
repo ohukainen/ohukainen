@@ -14,6 +14,7 @@ I have professional experience with C++ and I am most comfortable with this lang
 
 #### Familiar Tools 
 - [CMake](https://cmake.org/)
+- [Conan](https://conan.io/)
 - [ZeroMQ](https://zeromq.org/)
 - [JSON for Modern C++](https://github.com/nlohmann/json)
 - [SQLite](https://www.sqlite.org/cintro.html)
