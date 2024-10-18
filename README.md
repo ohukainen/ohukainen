@@ -18,6 +18,7 @@ I have professional experience with C++ and I am most comfortable with this lang
 - [ZeroMQ](https://zeromq.org/)
 - [JSON for Modern C++](https://github.com/nlohmann/json)
 - [SQLite](https://www.sqlite.org/cintro.html)
+- [OpenCV](https://opencv.org/)
 - [Catch2](https://github.com/catchorg/Catch2)
 - [Boost](https://www.boost.org/)
 
@@ -36,6 +37,11 @@ I have experience with Python from my education mostly linked to machine learnin
 
 - Description: A Chip-8 Emulator/Virtual Machine that can read and execute operation codes.
 - Key Takeaways: Learned how a CPU reads and processes binary data to execute commands, an important concept to understand as a C/C++ developer.
+
+### [Real Time Object Detection](https://github.com/ohukainen/real_time_object_detection)
+
+- Description: A Real Time Object Detector that uses DI to enable easy exansions.
+- Key Takeaways: Learned about the details regarding applying a YOLO model, future endeavors include expading to YOLOv11.
 
 ### [Neovim setup](https://github.com/ohukainen/kickstart.nvim)
 
