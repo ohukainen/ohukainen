@@ -1,6 +1,6 @@
 # Hello, I'm Johannes!
 
-I am a Software Developer pursuing a Master of Science in Biomedical Engineering degree (5th/last year). 
+I am a Software Developer pursuing a Master of Science in  Electrical Engineering (5th/last year). 
 
 ### I enjoy 
 - Low-level programming
