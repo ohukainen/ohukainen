@@ -43,7 +43,7 @@ I have experience with Python from my education mostly linked to machine learnin
 - Description: A Real Time Object Detector that uses DI to enable easy exansions.
 - Key Takeaways: Learned about the details regarding applying a YOLO model, future endeavors include expading to YOLOv11.
 
-### [Neovim setup](https://github.com/ohukainen/kickstart.nvim)
+### [Neovim setup](https://github.com/ohukainen/nvim-config)
 
 - Description: This is my nvim config based on [ThePrimeagens config](https://www.youtube.com/watch?v=w7i4amO_zaE) and [kickstart.neovim](https://github.com/nvim-lua/kickstart.nvim).
 - Key Takeaways: I like a minimalist setup and therefore removed some of the more flashy parts of kickstart. I also added some of my own favorite packages like harpoon and fugitive. 
